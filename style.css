@@ -1,0 +1,18 @@
+body {
+  margin-left: calc(50% - 150px);
+}
+
+td,
+tr,
+table {
+  border: 1px solid black;
+  text-align: center;
+}
+
+table {
+  padding: 5px;
+}
+
+td {
+  padding: 12px;
+}
